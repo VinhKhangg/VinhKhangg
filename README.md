@@ -1,4 +1,4 @@
-<h1 align="center">CHÀO TÔI TÊN VĨNH KHANG</h1>
+<h1 align="center">Xin Chào tôi tên là VĨNH KHANG</h1>
 <h3 align="center">Em là sinh viên trường Đại học Nguyễn Tất Thành</h3>
 
 - 🔭 Hiện tại em đang làm đồ án [DETECTING_BANK_FLUCTUATIONS](https://github.com/VinhKhangg/DETECTING_BANK_FLUCTUATIONS.git)
