@@ -1,15 +1,15 @@
 <h1 align="center">Xin Chào tôi tên là VĨNH KHANG</h1>
-<h3 align="center">Em là sinh viên trường Đại học Nguyễn Tất Thành</h3>
+<h3 align="center">Tôi là sinh viên trường Đại học Nguyễn Tất Thành</h3>
 
-- 🔭 Hiện tại em đang làm đồ án [DETECTING_BANK_FLUCTUATIONS](https://github.com/VinhKhangg/DETECTING_BANK_FLUCTUATIONS.git)
+- 🔭 Hiện tại Tôi đang làm đồ án [DETECTING_BANK_FLUCTUATIONS](https://github.com/VinhKhangg/DETECTING_BANK_FLUCTUATIONS.git)
 
-- 🌱 Em đang học **Học sâu, Học máy, Phân tích dữ liệu**
+- 🌱 Tôi đang học **Học sâu, Học máy, Phân tích dữ liệu, App mobile Flutter**
 
-- 👯 Em muốn hợp tác làm đồ án [RECOGNIZING_PNEUMONIA](https://github.com/VinhKhangg/RECOGNIZING_PNEUMONIA.git)
+- 👯 Tôi muốn hợp tác làm đồ án [RECOGNIZING_PNEUMONIA](https://github.com/VinhKhangg/RECOGNIZING_PNEUMONIA.git)
 
-- 🤝 Em đang tìm kiếm sự trợ giúp cho đồ án [ARTIFICIAL_INTELLIGENCE_COMPETITION](https://github.com/VinhKhangg/ARTIFICIAL_INTELLIGENCE_COMPETITION.git)
+- 🤝 Tôi đang tìm kiếm sự trợ giúp cho đồ án [ARTIFICIAL_INTELLIGENCE_COMPETITION](https://github.com/VinhKhangg/ARTIFICIAL_INTELLIGENCE_COMPETITION.git)
 
-- 💬 Hãy hỏi em về **CNN, YOLO, Thị giác máy tính, SQL**
+- 💬 Hãy hỏi tôi về **CNN, YOLO, Thị giác máy tính, SQL, Python**
 
 - 📫 Cách liên hệ với tôi **ntvinhkhang01012004@gmail.com**
 
